@@ -15,4 +15,4 @@ Even though he's just starting out, Samyak has done internships and training to 
 
 He's excited to face challenges and keep up with what's happening in the finance world. He is a new face in finance, but he's determined and ready to make his mark.
 
-{% include archive.html %}
+<!-- {% include archive.html %} -->
